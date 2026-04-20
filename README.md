@@ -83,7 +83,7 @@ The goal of this project is to analyze the Titanic dataset and build a predictiv
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/https://github.com/SANDEEP112005titanic-classification-ml.git
+git clone https://github.com/SANDEEP112005titanic-classification-ml.git
 ```
 
 2. Navigate to the project folder:
